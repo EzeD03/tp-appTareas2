@@ -1,0 +1,26 @@
+[
+   {
+      "titulo": "Hacer Playground",
+      "estado": "en proceso"
+   },
+   {
+      "titulo": "hacer el app de tareas",
+      "estado": "pendiente"
+   },
+   {
+      "titulo": "hacer el app de calculadora",
+      "estado": "terminado"
+   },
+   {
+      "titulo": "estudiar clase 5 de PG",
+      "estado": "terminado"
+   },
+   {
+      "titulo": "tareas del hogar",
+      "estado": "en proceso"
+   },
+   {
+      "titulo": "hacer la cama",
+      "estado": "pendiente"
+   }
+]
